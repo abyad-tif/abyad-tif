@@ -22,3 +22,7 @@ Here are some ideas to get you started:
 ##### My Stats
 
 ![My stats](https://github-readme-stats.vercel.app/api?username=abyad-tif&show_icons=true&theme=vue-dark)
+
+##### Mini Games
+
+<img src="https://raw.githubusercontent.com/abyad-tif/abyad-tif/output/snake.svg" alt="Snake animation" />
